@@ -22,3 +22,6 @@ It uses a hall effect sensor to detect wheel rotations and calculates the speed 
 * `GND -> GND`
 * `VCC -> 3V3`
 * `D0  -> GPIO5`
+
+## Results
+![sample.gif](https://github.com/Qvme/bicycleStats/blob/fe53ad084d41ab1b3f51f927b445a7a7a2a54a53/assets/sample.gif?raw=true)
